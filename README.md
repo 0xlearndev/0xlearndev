@@ -4,7 +4,7 @@
 - 💞️  I’m looking to collaborate on anything that moves the human race forward
 - 📫  How to reach me: bilawalriaz at gmail dot com
 
-My website is https://0xlearndev.me
+My website is https://learndev.me
 
 <!---
 0xlearndev/0xlearndev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
